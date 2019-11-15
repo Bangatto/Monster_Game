@@ -12,7 +12,7 @@ def game_ends(winner_name):
 while game_running == True:
     counter = 0
     new_round = True
-    player = {'name': 'Manuel', 'attack': 13, 'heal': 16, 'health': 100}
+    player = {'name': 'Kuon', 'attack': 13, 'heal': 16, 'health': 100}
     monster = {'name': 'Max', 'attack_min': 10, 'attack_max': 20, 'health': 100}
 
     print('---' * 7)
